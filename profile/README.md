@@ -137,7 +137,9 @@ ___
 
 ### КОМАНДА FRONTEND
 
-🦹‍♀️ [Максим] 
+🧙🏻‍♂️ [Виктор]
+
+🦹‍♀️ [Максим]
 
 ### КОМАНДА BACKEND
 
@@ -150,10 +152,11 @@ ___
 👩🏻‍🏫 [Елизавета]
 
 [Екатерина]: <https://t.me/Katti_po/>
-[Максим]: <https://github.com/maxtalanov>
+[Виктор]: <https://github.com/vitland/>
+[Максим]: <https://github.com/maxtalanov/>
 [Кирилл]: <https://github.com/TheSuncatcher222/>
-[Анастасия]: <https://behance.net/Anastasia_Kremenets>
-[Елизавета]: <https://behance.net/lisadidntlie>
+[Анастасия]: <https://behance.net/Anastasia_Kremenets/>
+[Елизавета]: <https://behance.net/lisadidntlie/>
 
 [Python]: <https://www.python.org/>
 [Django]: <https://www.djangoproject.com/>
