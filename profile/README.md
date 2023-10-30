@@ -147,11 +147,13 @@ ___
 
 🎨 [Анастасия]
 
+👩🏻‍🏫 [Елизавета]
+
 [Екатерина]: <https://t.me/Katti_po/>
 [Максим]: <https://github.com/maxtalanov>
 [Кирилл]: <https://github.com/TheSuncatcher222/>
 [Анастасия]: <https://behance.net/Anastasia_Kremenets>
-
+[Елизавета]: <https://behance.net/lisadidntlie>
 
 [Python]: <https://www.python.org/>
 [Django]: <https://www.djangoproject.com/>
