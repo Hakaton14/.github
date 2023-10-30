@@ -83,7 +83,7 @@ git clone git@github.com:Hakaton14/backend.git
 ✅ Перейти в папку backend
 
 ```
-cd backend/backend
+cd backend/hakaton
 ```
 
 ✅ Создать файл переменных окружения из примера
