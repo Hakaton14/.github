@@ -2,7 +2,7 @@
 
 Ваш самый удобный и современный агрегатор поиска кандидатов*
 
-<sup>_\* по версии нашей команды, подтверждено [Яндексом](https://github.com/Hakaton14/.github/edit/main/profile/README.md#%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B)_</sup>
+<sup>_\* по версии нашей команды, подтверждено [Яндексом](https://github.com/Hakaton14#%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B)_</sup>
 
 ___
 
