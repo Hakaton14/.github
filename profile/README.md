@@ -2,7 +2,7 @@
 
 Ваш самый удобный и современный агрегатор поиска кандидатов*
 
-<sup>_\* по версии нашей команды_</sup>
+<sup>_\* по версии нашей команды, подтверждено [Яндексом](https://github.com/Hakaton14/.github/edit/main/profile/README.md#%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B)_</sup>
 
 ___
 
@@ -156,6 +156,21 @@ ___
 🎨 [Анастасия]
 
 👩🏻‍🏫 [Елизавета]
+
+### ДИПЛОМЫ
+
+| RUS | ENG |
+|:-------------------------:|:-------------------------:|
+|<img width="700" alt="Пономаренко Екатирина (rus)" src="https://github.com/Hakaton14/.github/assets/36377190/7e280d06-cd9c-4459-9774-c73eedc18613">  |  <img width="700" alt="Пономаренко Екатирина (eng)" src="https://github.com/Hakaton14/.github/assets/36377190/658f2b26-413a-4b6f-a2fe-fa8eec9ac9c6">|
+| ![Кикодзе Виктор (rus)](https://github.com/Hakaton14/.github/assets/36377190/fd6881f2-8a00-4f0c-907f-9039077e9a25) | ![Кикодзе Виктор (eng)](https://github.com/Hakaton14/.github/assets/36377190/84e0e4fa-f81c-4da4-a8f3-16d3dcaab187) |
+| ![Таланов Максим (rus)](https://github.com/Hakaton14/.github/assets/36377190/cd5f8db0-1cb7-405b-9586-010bbdfa0591) | ![Таланов Максим (eng)](https://github.com/Hakaton14/.github/assets/36377190/615dd970-d2d3-4477-a7eb-0a238f9d6fca) |
+| ![Кайгородцев Глеб (rus)](https://github.com/Hakaton14/.github/assets/36377190/3caa2a57-7d26-46c2-9196-9daf448c4c46) | ![Кайгородцев Глеб (eng)](https://github.com/Hakaton14/.github/assets/36377190/678ce919-3156-4d82-8d51-c9864cfb7ec5) |
+| ![Свидунович Кирилл (rus)](https://github.com/Hakaton14/.github/assets/36377190/5dac64b3-7032-43fc-93b8-0a5764849c36) | ![Свидунович Кирилл (eng)](https://github.com/Hakaton14/.github/assets/36377190/415eedc5-e7f4-4133-abdd-82e4f34da6ee) |
+| ![Свидунович Кирилл (rus) - номинация](https://github.com/Hakaton14/.github/assets/36377190/4ffbf77b-2112-4bc6-a6cb-22bc0201c984) | ![Свидунович Кирилл (eng) - номинация](https://github.com/Hakaton14/.github/assets/36377190/8106f4e2-8d83-43cf-8530-02b6e1245368) |
+| ![Кременец Анастасия (rus)](https://github.com/Hakaton14/.github/assets/36377190/c47c1601-59c8-4e61-a964-e121c0a8405c) | ![Кременец Анастасия (eng)](https://github.com/Hakaton14/.github/assets/36377190/edc05e86-cb4a-4c66-bdb2-522b5e3fe8ac) |
+| ![Рыбакина Елизавета (rus)](https://github.com/Hakaton14/.github/assets/36377190/b939acd5-9a5d-43d6-a7a0-5700a5a97174) | ![Рыбакина Елизавета (eng)](https://github.com/Hakaton14/.github/assets/36377190/30d87031-1cb0-46cc-9d74-0818a58b0dac) |
+| ![Чигинцев Константин (rus)](https://github.com/Hakaton14/.github/assets/36377190/38d32e13-271f-48cb-8cdb-83dc59317889) | ![Чигинцев Константин (eng)](https://github.com/Hakaton14/.github/assets/36377190/7e829679-dd33-4b19-867c-1f2a0d7bfed5) |
+
 
 [Екатерина]: <https://t.me/Katti_po/>
 [Виктор]: <https://github.com/vitland/>
