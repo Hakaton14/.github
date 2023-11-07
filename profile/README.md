@@ -137,7 +137,7 @@ MIT
 
 ___
 
-### Product Manager
+### PRODUCT MANAGER
 
 🙋‍♀️ [Екатерина]
 
