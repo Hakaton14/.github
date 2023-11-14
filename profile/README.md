@@ -8,7 +8,7 @@ ___
 
 ### АЛЬФА-ВЕРСИЯ
 
-https://hr-praсtiсum.webtm.ru/
+[https://hr-praсtiсum.webtm.ru/](https://hr-practicum.webtm.ru/)
 
 ___
 
