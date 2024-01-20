@@ -6,9 +6,11 @@
 
 ___
 
-### АЛЬФА-ВЕРСИЯ
+### ССЫЛКИ
 
-[https://hr-praсtiсum.webtm.ru/](https://hr-practicum.webtm.ru/)
+[Главная страница (develop версия)](https://hr-practicum.webtm.ru/)
+
+[API документация](https://hr-practicum.webtm.ru/api/v1/schema/swagger-ui/)
 
 ___
 
